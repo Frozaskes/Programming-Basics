@@ -1,1 +1,1 @@
-New File 2
+Directory containing some projects.
